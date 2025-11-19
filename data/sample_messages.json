@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "date": "2024-05-01T09:23:00",
+    "from": "Alex",
+    "text": "Hey, did you read the article about building semantic search?"
+  },
+  {
+    "id": 2,
+    "date": "2024-05-01T09:24:15",
+    "from": "Jamie",
+    "text": "Not yet, but I heard they use transformer embeddings to make the results smarter."
+  },
+  {
+    "id": 3,
+    "date": "2024-05-01T09:25:42",
+    "from": "Alex",
+    "text": "Let's try it on our Telegram logs this weekend."
+  },
+  {
+    "id": 4,
+    "date": "2024-05-02T14:05:09",
+    "from": "Priya",
+    "text": "Reminder: project demo is on Friday, please push your updates."
+  },
+  {
+    "id": 5,
+    "date": "2024-05-03T08:10:33",
+    "from": "Jamie",
+    "text": "Can someone send me the link to the sprint notes?"
+  },
+  {
+    "id": 6,
+    "date": "2024-05-03T10:42:05",
+    "from": "Alex",
+    "text": "Here are the sprint notes: https://example.com/notes"
+  },
+  {
+    "id": 7,
+    "date": "2024-05-04T11:19:47",
+    "from": "Priya",
+    "text": "Also check the new notebook with retrieval experiments."
+  }
+]
